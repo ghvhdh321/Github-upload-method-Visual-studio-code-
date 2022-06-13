@@ -21,6 +21,8 @@
    git push origin master
 
 
+
+
 ㅇ 업데이트 하는 법
 1. 추가할 파일 더하기
    git add .
@@ -30,6 +32,8 @@
 
 3. github로 올리기
    git push origin master
+
+
 
 ㅇ 팀프로젝트 하는 법
 1. github에서 소스코드 다운로드 
